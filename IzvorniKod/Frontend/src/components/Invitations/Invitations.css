@@ -1,0 +1,22 @@
+.container1{
+    margin: 2%;
+    padding: 2%;
+    border-style: solid;
+    border-width: thin;
+}
+
+.cont1 {
+    overflow: auto;
+}
+
+.tab2 {
+    margin-bottom: 20px !important;
+    table-layout: fixed;
+}
+
+
+.tab2 thead{
+    table-layout: fixed;
+    display: table-header-group;
+    width: 100%;
+}

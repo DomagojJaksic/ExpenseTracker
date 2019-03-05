@@ -1,0 +1,38 @@
+.FormRow {
+    margin: 8px 0;
+}
+
+.Form .FormRow:first-child {
+    margin-top: 0
+}
+
+.FormRow label {
+    display: block;
+    /*font-size: 0.85rem;*/
+    margin-bottom: 2px;
+}
+
+.FormRow input {
+    font-size: 20px;
+    padding: 5px;
+    border: 1px solid #ccc;
+}
+
+.FormRow input:focus {
+    outline-color: green;
+}
+
+.FormRow input[type='checkbox'] {
+    width: 25px;
+    height: 25px;
+}
+
+.FormRow select {
+    padding: 5px;
+    border: 1px solid #ccc;
+    width: 100%;
+}
+
+.FormRow select:focus {
+    outline-color: green;
+}

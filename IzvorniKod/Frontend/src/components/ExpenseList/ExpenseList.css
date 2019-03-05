@@ -1,0 +1,24 @@
+.ExpenseList{
+    margin: 2%;
+    padding: 2%;
+    border-style:solid;
+    border-width: thin;
+}
+
+.tab2 {
+    margin-bottom: 20px !important;
+    table-layout: fixed;
+}
+
+
+.tab2 thead{
+    table-layout: fixed;
+    display: table-header-group;
+    width: 100%;
+}
+
+
+.cont1 {
+    overflow: auto;
+}
+

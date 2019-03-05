@@ -1,0 +1,44 @@
+/*.ExpenseListRow {*/
+    /*margin: 2%;*/
+    /*padding: 2%;*/
+    /*border-style:solid;*/
+    /*border-width: thin;*/
+/*}*/
+
+
+
+.red {
+    width: 100%;
+
+}
+.date
+{
+    width:10%;
+
+}
+.user
+{
+    width:10%;
+}
+.cat
+{
+    width:10%;
+}
+.desc
+{
+    width:40%;
+}
+.amount
+{
+    width:10%;
+}
+.edit
+{
+    width:10%;
+
+}
+.delete
+{
+    width:10%;
+}
+

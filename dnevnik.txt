@@ -1,0 +1,45 @@
+Sastanak 1
+15.10.2018. 12:00-14:00
+
+Prisutni: Domagoj Jakšić, Dominik Galić, Vitomir Marjanović, Robert Čiček, Vlatko Magjer, Domagoj Kroflin
+
+Sažetak sastanka: Analiza projektnog zadatka, definirani funkcionalni i nefunkcionalni zahtjevi,
+                  osnovna podjela zadataka, odabrane tehnologije za rad na projektu,
+                  stvoren osnovni nacrt web aplikacije i skica korisničkog sučelja aplikacije
+
+
+Sastanak 2
+23.10.2018. 16:00-18:00
+
+Prisutni: Domagoj Jakšić, Dominik Galić, Vitomir Marjanović, Robert Čiček, Vlatko Magjer
+
+Sažetak sastanka: Analiza odrađenog posla oko funkcionalnih zahtjeva i opisa obrazaca uporabe, raspodjela zadataka
+                  za narednih tjedan dana, izrada sekvencijskih dijagrama, skiciranje izgleda pojedinih
+                  view-ova korisničkog sučelja u aplikaciji, razrada entiteta grupa, dogovor oko upravljanja
+                  notifikacijama, dogovor oko arhitekture sustava
+
+
+
+Sastanak 3
+30.10.2018. 15:00 - 16:30
+
+Prisutni: Domagoj Jakšić, Domagoj Kroflin, Vitomir Marjanović, Robert Čiček, Vlatko Magjer
+
+Sažetak sastanka: Analiza opisa obrazaca uporabe, sekvencijskih dijagrama i arhitekture sustava. Ispravljanje
+                  pogrešaka i problema u dokumentaciji, definiranje izgleda aplikacije,
+                  budući planovi, raspodjela posla za naredni period
+
+Sastanak 4
+4.12.2018. 12:00 - 14:00
+
+Prisutni: Domagoj Jakšić, Dominik Galić, Domagoj Kroflin, Vitomir Marjanović, Robert Čiček, Vlatko Magjer
+
+Sažetak sastanka: Dogovor i podjela posla oko implementacije projektnog zadatka.
+
+5.	sastanak
+8.1.2019. 18:00 – 20:00
+
+Prisutni: Domagoj Jakšić, Dominik Galić, Vitomir Marjanović
+
+Sažetak sastanka: Dogovor oko dizajna korisničkog sučelja i povezivanja korisničkog sučelja i backend komponente.
+
